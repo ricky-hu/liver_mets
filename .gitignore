@@ -2,7 +2,7 @@ clin_data_dim1_only.csv
 clin_data_dim1_only.xlsx
 clin_data_original.xlsx
 for_survival.csv
-clin_variables_only.csv
+
 filtered_clin_variables_only.csv
 filtered_gtv.csv
 filtered_gtv_clin_variables.csv
@@ -22,11 +22,8 @@ liver_mets_presentation_mskcc.pdf
 
 Master - v6_blanks_bylesions_anon_v2.xlsx
 Master - v6_blanks_bylesions_anon_v3_rh_edit.xlsx
-liver_plus_gtv.csv
-liver_plus_gtv_clin_variables.csv
-liver_sub_gtv.csv
-liver_sub_gtv_clin_variables.csv
 
-gtv.csv
+
+
 preds.xlsx
 
