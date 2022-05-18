@@ -13,7 +13,7 @@ seg = seg.seg;
 figure(1);
 colormap('gray');
 %im2 = imadjust(im,[low high],[]);
-imagesc(im2);
+imagesc(im);
 
 
 %overlaying liver
